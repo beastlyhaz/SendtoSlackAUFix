@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         WMESTSData
 // @namespace    https://gitlab.com/WMEScripts
-// @version      2022.03.29.01
+// @version      2022.07.20.1106
 // @description  Datas for the script WME-send-to-slack
 // @author       Tunisiano18
 // @match        https://www.waze.com*/user/*editor/*
