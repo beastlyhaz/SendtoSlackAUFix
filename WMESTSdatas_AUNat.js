@@ -14,4 +14,4 @@ var suppLngs=[_0xd801[5],_0xd801[6],_0xd801[7],_0xd801[8],_0xd801[9],_0xd801[10]
 var countryDB={AU:{name:_0xd801[13],str_lvl:1,pri_lvl:2,min_lvl:3,maj_lvl:3,rmp_lvl:3,fwy_lvl:5,place_lvl:-1},AF:{name:_0xd801[11],webhook:{slack:_0xd801[12]},str_lvl:-1,pri_lvl:-1,min_lvl:-1,maj_lvl:-1,rmp_lvl:-1,fwy_lvl:-1,place_lvl:-1}};
 var stateDB={AU:{_0xd801[69]}};
 var languageDB={LUns:{"\x66\x72":_0xd801[87],en:_0xd801[89]}};
-var serverDB={AU_en:{discord:{editing:_0xd801[107],chanel_editing:_0xd801[108],closures:_0xd801[107],chanel_closures:_0xd801[108]}},AFns_en:{slack:{editing:_0xd801[12],chanel_editing:_0xd801[90],closures:_0xd801[12],chanel_closures:_0xd801[90]}}};
+var serverDB={AU_en:{discord:{editing:_0xd801[107],chanel_editing:_0xd801[108],closures:_0xd801[107],chanel_closures:_0xd801[108]}},AFns_en:{slack:{editing:_0xd801[12],chanel_editing:_0xd801[90],closures:_0xd801[12],chanel_closures:_0xd801[90]}}
