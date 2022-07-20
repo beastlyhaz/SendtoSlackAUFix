@@ -12,6 +12,6 @@ var _0xd801=["\x68\x74\x74\x70\x73\x3A\x2F\x2F\x73\x68\x65\x65\x74\x73\x2E\x67\x
 var sheetsAPI={link:_0xd801[0],sheet:_0xd801[1],key:_0xd801[2],range:_0xd801[3],sheetName:_0xd801[4]};
 var suppLngs=[_0xd801[5],_0xd801[6],_0xd801[7],_0xd801[8],_0xd801[9],_0xd801[10]];
 var countryDB={AU:{name:_0xd801[13],str_lvl:1,pri_lvl:2,min_lvl:3,maj_lvl:3,rmp_lvl:3,fwy_lvl:5,place_lvl:-1}};
-var stateDB={AU:{_0xd801[69]}};
+var stateDB={};
 var languageDB={LUns:{"\x66\x72":_0xd801[87],en:_0xd801[89]}};
 var serverDB={AU_en:{discord:{editing:_0xd801[107],chanel_editing:_0xd801[108],closures:_0xd801[107],chanel_closures:_0xd801[108]}}
